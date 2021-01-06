@@ -1,0 +1,56 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 04/05/2017 06:59
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/flaticon.eot");
+  src: url("../fonts/flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/flaticon.woff") format("woff"),
+       url("../fonts/flaticon.ttf") format("truetype"),
+       url("../fonts/flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+    font-family: Flaticon;
+    font-style: normal;
+}
+
+.flaticon-industry:before { content: "\f100"; }
+.flaticon-computer:before { content: "\f101"; }
+.flaticon-machine:before { content: "\f102"; }
+.flaticon-technology-10:before { content: "\f103"; }
+.flaticon-technology-9:before { content: "\f104"; }
+.flaticon-signal:before { content: "\f105"; }
+.flaticon-tool:before { content: "\f106"; }
+.flaticon-mail:before { content: "\f107"; }
+.flaticon-arrows:before { content: "\f108"; }
+.flaticon-electricity:before { content: "\f109"; }
+.flaticon-technology-7:before { content: "\f10a"; }
+.flaticon-cut:before { content: "\f10b"; }
+.flaticon-technology-5:before { content: "\f10c"; }
+.flaticon-social:before { content: "\f10d"; }
+.flaticon-technology-4:before { content: "\f10e"; }
+.flaticon-energy:before { content: "\f10f"; }
+.flaticon-technology-3:before { content: "\f110"; }
+.flaticon-technology-2:before { content: "\f111"; }
+.flaticon-interface:before { content: "\f112"; }
+.flaticon-folder:before { content: "\f113"; }
+.flaticon-plug:before { content: "\f114"; }
+.flaticon-24-hours-support:before { content: "\f115"; }
+.flaticon-technology-1:before { content: "\f116"; }
+.flaticon-alarm-clock:before { content: "\f117"; }
+.flaticon-phone-call:before { content: "\f118"; }
+.flaticon-line:before { content: "\f119"; }
+.flaticon-technology:before { content: "\f11a"; }
