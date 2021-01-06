@@ -214,11 +214,11 @@ ul,li{
 	padding:11px 30px;
 	line-height:24px;
 	text-transform:uppercase;
-	background:#2799ED;
+	background:#f82249;
 	color:#ffffff !important;
 	font-size:13px;
 	font-weight:600;
-	border:2px solid #2799ED !important;
+	border:2px solid #f82249 !important;
 	border-radius:2px;
 	font-family: 'Lato', sans-serif;
 }
@@ -1186,7 +1186,7 @@ ul,li{
 .centered-title h2{
 	position:relative;
 	font-size:32px;
-	color:#222222;
+	color:#f82249;
 	font-weight:700;
 	line-height:.8em;
 	
